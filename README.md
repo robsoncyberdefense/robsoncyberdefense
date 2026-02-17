@@ -89,17 +89,49 @@ I have strong hands-on experience with Microsoft 365, Intune, Azure/Entra ID, an
 
 ## 📂 Featured Projects (in progress)
 
-- 🔹 PowerShell automation for Microsoft 365
-- 🔹 KQL queries for threat detection
-- 🔹 Endpoint security baselines (STIG/Hardening)
-- 🔹 Incident response playbooks
+### 🔹 PowerShell Automation
+Automation scripts focused on administrative efficiency, security and compliance.
+
+**Key features:**
+- User and group management automation
+- License assignment and reporting
+- Compliance and device inventory reports
+- Integration with Microsoft Graph API
+
+**Technologies:** PowerShell, Microsoft Graph, Microsoft 365, Entra ID
+
+---
+
+### 🔹 Endpoint Security Baselines (STIG / Hardening)
+Implementation of security baselines and hardening standards for Windows endpoints.
+
+**Key features:**
+- DISA STIG baseline implementation
+- SCAP Compliance Checker analysis
+- Risk prioritization (CAT I, II, III)
+- Compliance reporting and audit evidence generation
+
+**Technologies:** Intune, Windows Security Baselines, STIG, SCC, PowerShell
+
+---
+
+### 🔹 Incident Response Playbooks
+Structured procedures for security incident investigation and response.
+
+**Key features:**
+- Step-by-step investigation workflows
+- Endpoint triage procedures
+- Identity compromise response
+- Evidence collection and documentation standards
+
+**Technologies:** Microsoft Defender, Entra ID, Intune, KQL, PowerShell
 
 ---
 
 ## 🌐 Connect with me
 
 🔗 LinkedIn: https://www.linkedin.com/in/robsonsecurity  
-📧 Email: robsoncyberdefense@gmail.com
+📧 Email: robsoncyberdefense@gmail.com  
 💬 WhatsApp: [Contact me directly](https://wa.me/5521998837215?text=Ol%C3%A1%20Robson,%20vi%20seu%20portif%C3%B3lio%20e%20gostaria%20de%20conversar!)
 
 ---
