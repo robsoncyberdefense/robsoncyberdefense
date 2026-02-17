@@ -76,7 +76,19 @@ I have strong hands-on experience with Microsoft 365, Intune, Azure/Entra ID, an
 
 🔗 LinkedIn: https://www.linkedin.com/in/robsonsecurity  
 📧 Email: robsoncyberdefense@gmail.com
+💬 WhatsApp: [Contact me directly](https://wa.me/5521998837215?text=Ol%C3%A1%20Robson,%20vi%20seu%20portif%C3%B3lio%20e%20gostaria%20de%20conversar!)
 
 ---
 
 ⭐ Always learning. Always improving. Always defending.
+
+---
+
+## 🇧🇷 Sobre mim (Português)
+
+Sou um profissional de Segurança Cibernética com foco em Microsoft 365, Intune, Azure/Entra ID, gestão de endpoints e resposta a incidentes.
+
+Atuo com proteção de ambientes corporativos, hardening de dispositivos, análise de vulnerabilidades e estratégias de Zero Trust.
+
+---
+
