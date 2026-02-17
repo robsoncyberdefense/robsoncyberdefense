@@ -28,38 +28,62 @@ I have strong hands-on experience with Microsoft 365, Intune, Azure/Entra ID, an
 
 ## 🧰 Tools & Technologies
 
-- Microsoft 365 / Azure
-- Intune / SCCM
-- PowerShell
-- KQL
-- Trend Micro Vision One
+- Microsoft 365 / Azure / Entra ID
+- Microsoft Intune (Endpoint Manager) / SCCM
+- Microsoft Defender Suite (Endpoint, Identity, Cloud)
+- PowerShell & Microsoft Graph Automation
+- KQL (Kusto Query Language) / Log Analytics
+- Trend Micro Vision One (XDR)
 - Tenable Vulnerability Management
-- PRTG Monitoring
+- PRTG Network Monitoring
+- Windows Server / Active Directory
 
 ---
 
 ## 📜 Certifications
 
+### 🛡️ Microsoft & Security
+- MS-900 – Microsoft 365 Fundamentals
 - SC-900 – Microsoft Security, Compliance, and Identity Fundamentals
 - AZ-900 – Microsoft Azure Fundamentals
-- Google Cybersecurity Professional Certificate
-- Certified CSCSO – SME Cyber Security Officer
-- Trend Vision One Certified (Advanced Network Security)
-- HDI-SCA
-- Lean Six Sigma White Belt & Yellow Belt
 
-📚 Currently studying: **SC-200 (Microsoft Security Operations Analyst)**
+### 🔐 Cybersecurity
+- Google Cybersecurity Professional Certificate
+- Certified CSCSO – Certified SME Cyber Security Officer
+- Certified Cybersecurity Educator Professional (CCEP)
+- FCF – Fortinet Certified Fundamentals Cybersecurity
+- FCA – Fortinet Certified Associate Cybersecurity
+
+### 🧠 Security Platforms & Tools
+- Trend Vision One – Network Security Advanced
+- Trend Vision One – Understanding the Basics
+- Trend Vision One – Introducing Trend Vision One
+
+### ⚙️ IT Service & Process
+- HDI-SCA – Service Center Analyst
+- Lean Six Sigma White Belt
+- Lean Six Sigma Yellow Belt
+
+## 🚧 Certifications in Progress
+
+- MD-102 – Microsoft Endpoint Administrator Associate *(primary focus)*
+- SC-200 – Microsoft Security Operations Analyst *(next step)*
+- CompTIA Security+ *(foundation & global certification)*
 
 ---
 
 ## 🔍 Areas of Expertise
 
-- Threat Hunting
-- Incident Response
-- Endpoint Protection
-- Identity & Access Management (IAM/PAM)
-- Vulnerability Management
-- Security Monitoring & Log Analysis
+- Threat Hunting & Security Investigation
+- Incident Response & Forensics Analysis
+- Endpoint Protection & Hardening (Intune / STIG / Compliance)
+- Identity & Access Management (IAM) and Privileged Access Management (PAM)
+- Vulnerability Management & Risk Prioritization
+- Security Monitoring, Log Analysis & KQL Queries
+- Microsoft 365 Security & Compliance (MFA, Conditional Access, DLP)
+- Zero Trust Architecture & Security Controls
+- Endpoint Management & Configuration Policies (Intune / SCCM)
+- PowerShell Automation for Security & Administration
 
 ---
 
